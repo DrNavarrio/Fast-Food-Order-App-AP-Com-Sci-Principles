@@ -1,0 +1,1 @@
+This project is for my AP Computer Science Principles class. The lesson is Unit 4 Lesson 12-14. This is the complete code for those lessons, however it does not include the deisgn mode stuff (obviously) I think that I might use this for my AP project because it would be a useful/meaningful app. Code made entirely by Paul Navarre. 
